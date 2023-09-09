@@ -1,0 +1,6 @@
+Algoritmo verdadreoFalso
+	Edad <- 15
+	Escribir (edad>18)
+	Escribir (edad<18)
+	
+FinAlgoritmo

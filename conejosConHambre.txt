@@ -1,0 +1,6 @@
+Algoritmo conejosConHambre
+	conejos<- 12
+	zanahorias<-3*conejos
+	Mostrar zanahorias
+	
+FinAlgoritmo

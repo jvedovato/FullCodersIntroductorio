@@ -1,0 +1,9 @@
+Algoritmo sumatoria
+	suma <- 0
+	Escribir "Ingrese hasta qué número desea que sume";
+	Leer valorHasta
+	Para x <- 1 hasta valorHasta
+		suma = suma + x;
+	FinPara
+	Escribir suma
+FinAlgoritmo

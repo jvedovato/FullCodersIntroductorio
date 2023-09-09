@@ -1,0 +1,6 @@
+Algoritmo tablaDel2
+	Para x<- 1 hasta 10 Con Paso 1;
+		resultado <- x*2;
+		Escribir x, " por dos es igual a ", resultado
+	FinPara
+FinAlgoritmo

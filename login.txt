@@ -1,0 +1,13 @@
+Algoritmo login
+	Definir secreto, clave Como Entero;
+	secreto <- 12345678;
+	Repetir
+		Escribir "Dime la clave"
+		Leer clave
+		Si clave<>secreto Entonces
+			Escribir "Clave incorrecta!!!";
+		FinSi
+	Hasta Que clave=secreto
+	Escribir "Bienvenido/a!!!"
+	Escribir "Programa terminado";
+FinAlgoritmo

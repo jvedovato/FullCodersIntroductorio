@@ -1,0 +1,14 @@
+Algoritmo conejosZanahorias
+	conejos es entero
+	zanahorias es entero
+	
+	conejos<- 126
+	zanahorias<- 0
+	mostrar conejos
+	conejos<-150
+	mostrar conejos
+	zanahorias=conejos
+	mostrar zanahorias, " ", conejos
+	conejos<- 250
+	mostrar conejos, " ", zanahorias
+FinAlgoritmo

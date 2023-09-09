@@ -1,0 +1,9 @@
+Algoritmo condicion
+	edad <- 18
+	Si edad<18 Entonces
+		escribir "Eres menos de edad"
+	SiNo
+		escribir "Según la ley 26.579, del código civil, eres mayor de edad"
+	Fin Si
+	
+FinAlgoritmo

@@ -1,0 +1,13 @@
+Algoritmo seguridadInformatica
+	Escribir "Ingrese su clave";
+	Leer claveSecreta;
+	Si claveSecreta = "password" Entonces
+		Escribir "Clave aceptada";
+	SiNo
+		
+		Escribir "¡Alerta intruso!"
+		Escribir "¡Alerta intruso!"
+		
+	FinSi
+	
+FinAlgoritmo

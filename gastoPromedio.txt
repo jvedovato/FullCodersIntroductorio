@@ -1,0 +1,12 @@
+Algoritmo gastoPromedio
+	gastoAcumulado<-0
+	Escribir "¿Cuántos meses va a evaluar?";
+	Leer cantidadMeses
+	para x<-1 hasta cantidadMeses
+		Escribir "Ingrese el gasto del mes ", x
+		Leer gasto;
+		gastoAcumulado	<- gastoAcumulado+gasto;
+	FinPara
+	promedio<-gastoAcumulado/cantidadMeses;
+	Escribir "Tu gasto promedio es ", promedio;
+FinAlgoritmo

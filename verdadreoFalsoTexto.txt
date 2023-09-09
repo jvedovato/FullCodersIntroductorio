@@ -1,0 +1,4 @@
+Algoritmo verdadreoFalsoTexto
+	Escribir "10" = 10
+	
+FinAlgoritmo

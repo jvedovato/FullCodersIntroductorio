@@ -1,0 +1,13 @@
+Algoritmo fechaNacimiento
+	edad Es Entero;
+	edadAnterior Es Entero;
+	espacio Es Caracter;
+	
+	edad <- 8;
+	edad <- 11; 	
+	edadAnterior <-edad;
+	edad <- 12;
+	espacio <- " ";
+    Mostrar edad, espacio, edadAnterior;
+	
+FinAlgoritmo

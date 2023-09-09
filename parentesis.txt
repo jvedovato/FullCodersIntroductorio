@@ -1,0 +1,7 @@
+Algoritmo parentesis
+	sinParentesis<-3+2*8;
+	conParentesis<-(3+2)*8;
+	Mostrar "Sin paréntesis ", sinParentesis;
+	Mostrar "Con paréntesis ", conParentesis;
+	
+FinAlgoritmo

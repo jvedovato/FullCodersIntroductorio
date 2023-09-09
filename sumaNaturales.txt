@@ -1,0 +1,11 @@
+Algoritmo sumaNaturales
+	suma<-0
+	n<-1
+	Escribir "¿Cuántos números va a sumar?"
+	Leer cantidadNumeros;
+	mientras n <= cantidadNumeros
+		suma<- suma+n;
+		n<-n+1;
+	FinMientras
+	Escribir "La suma es ", suma;
+FinAlgoritmo

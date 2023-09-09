@@ -1,0 +1,9 @@
+Algoritmo tablaDel3
+	definir valorIngresado Como Entero
+	Escribir "Ingrese un valor hasta el cual desee ver la progresicón de la tabla del 3"
+	Leer valorIngresado
+	Para x<- 1 hasta valorIngresado Con Paso 1;
+		resultado <- x*3;
+		Escribir x, " por tres es igual a ", resultado
+	FinPara
+FinAlgoritmo

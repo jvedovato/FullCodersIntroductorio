@@ -1,0 +1,7 @@
+Algoritmo contar
+	Para n<-10 hasta 1
+		escribir n
+	FinPara
+	Escribir "¡¡Despegue!!"
+	
+FinAlgoritmo
